@@ -10,24 +10,20 @@ Find free sound effects [on Pixabay](https://pixabay.com/sound-effects/).
 
 ### Installation
 
-Download as a zip, open *the folder* in VS Code, then
-
 ```
 npm install
 ```
 
-### Development
-
-To run the dev server, use the following command:
+### Development server
 
 ```
 npm run start
 ```
 
-### Production
-
-To build out the production site, use the following command:
+### Building out the website
 
 ```
 npm run build
 ```
+
+The website is built into the `docs` folder. You can change this by editing `package.json`.
