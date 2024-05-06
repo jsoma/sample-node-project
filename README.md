@@ -21,7 +21,7 @@ npm install
 The dev server automatically uses `src/index.html` as the Parcel entry point.
 
 ```
-npm run start
+npm run dev
 ```
 
 ### Building out the website
