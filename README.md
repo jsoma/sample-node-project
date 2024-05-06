@@ -10,6 +10,8 @@ Find free sound effects [on Pixabay](https://pixabay.com/sound-effects/).
 
 ### Setup/Installation
 
+[Download the repo as a zip file](https://github.com/jsoma/sample-node-project/archive/refs/heads/main.zip) and extract it. Then install the necessary dependencies.
+
 ```
 npm install
 ```
