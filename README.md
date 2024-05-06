@@ -8,13 +8,15 @@ Find free sound effects [on Pixabay](https://pixabay.com/sound-effects/).
 
 ## Usage
 
-### Installation
+### Setup/Installation
 
 ```
 npm install
 ```
 
 ### Development server
+
+The dev server automatically uses `src/index.html` as the Parcel entry point.
 
 ```
 npm run start
